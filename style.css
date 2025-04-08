@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+box-sizing: border-box;
+font-family: "Open Sans", serif;
+}
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 1171px;
+height: 50.408084869384766px;
+top: -1620.64px;
+left: -498px;
+border-radius: 5px;
+margin: 30px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 60px;
+   align-items: center;
+
+}
+li{
+    font-size: 18px;
+}
+li:hover{
+    color: rgb(255, 123, 0);;
+}
+button{
+    width: 120px;
+height: 50.408084869384766px;
+top: -1620.64px;
+left: 553px;
+border-radius: 5px;
+background-color: rgb(255, 123, 0);
+color: white;
+border: none;
+}
+span{
+    color: rgb(255, 123, 0);;
+}
+h1{
+    font-size: 55px;
+}
+.ota{
+    display: flex;
+    
+    
+}
+p{
+    width: 543px;
+}
+.ota2{
+    display: flex;
+    align-items: center;
+}
+.coco{
+    width: 176;
+height: 58;
+top: 1515px;
+left: 855px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+border-bottom-right-radius: 1px;
+border-bottom-left-radius: 30px;
+
+}
+
+h2{
+    text-align: center;
+}
+.sasi{
+    display: flex;
+    gap: 5px;
+}
+.bola3{
+    background-color: rgba(255, 255, 255, 1);
+}
+.ota3{
+    display: flex;
+}
+
+.ota4{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.fifa{
+    width: px;
+height: 150px;
+top: 2507px;
+left: 176px;
+
+}
+h5{
+    text-align: center;
+   font-size: 40px;
+   color: white;
+margin-top: 30px;
+padding-top: 30px;
+}
+.mama{
+    background-color: rgba(255, 122, 80, 1);
+    width: 1170px;
+    height: 312px;
+    top: 2979px;
+    left: 138px;
+    border-radius: 20px;
+    margin-left: 100px;
+}
+input{
+    width: 838.5px;
+height: 78px;
+top: 3156.45px;
+left: 303.75px;
+border-width: 1px;
+border-radius: 40px;
+padding-left: 20px;
+margin: 60px 150px;
+}
